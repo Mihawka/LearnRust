@@ -15,4 +15,5 @@ LearnRust repo
 - Project C
 - Project X
 - ...
+
  And inside the project example "repo/Project A/" open cmd or terminal and type "cargo run" to run the project. cargo run build and run the project. To open in release mode type "cargo run --release"
