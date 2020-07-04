@@ -7,12 +7,12 @@ At first, you need to install some tools for begin to create code with Rust.
  * Now you need to create a projet. Open CMD or terminal and type "cargo new \<name of your project\> --bin"
  
 # Run projet
-To run project git clone this repository and choose à project:\n
-LearnRust repo\n
-└ Project A\n
-  └ src //folder which contains code. Open file.rs \n
-└ Project B\n
-└ Project C\n
-└ Project X\n
-└ ...\n
- And inside the project example "repo/Project A/" open cmd or terminal and type "cargo run" to run the project. cargo run build and run the project. To open in release mode type "cargo run --release"\n
+To run project git clone this repository and choose à project:
+LearnRust repo
+- Project A
+  - src //folder which contains code. Open file.rs 
+- Project B
+- Project C
+- Project X
+- ...
+ And inside the project example "repo/Project A/" open cmd or terminal and type "cargo run" to run the project. cargo run build and run the project. To open in release mode type "cargo run --release"
