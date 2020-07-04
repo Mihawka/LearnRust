@@ -4,4 +4,4 @@ You will find in this repository differents little projects I created to learn r
 # Install Rust
 At first, you need to install some tools for begin to create code with Rust.
  * [Install rustup](https://www.rust-lang.org/tools/install)
- * Now you need to create a projet. Open CMD or terminal and type "cargo new <name of your project> --bin"
+ * Now you need to create a projet. Open CMD or terminal and type "cargo new \<name of your project\> --bin"
